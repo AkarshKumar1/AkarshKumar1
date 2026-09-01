@@ -189,19 +189,20 @@ A Python project exploring automated trading concepts and programmatic decision-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshKumar1&show_icons=true&theme=github_dark&hide_border=true&count_private=false" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AkarshKumar1&theme=github-dark-blue&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshKumar1&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="180" />
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshKumar1&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="95%" />
+  <img
+    src="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/activity-graph.svg"
+    alt="Akarsh Kumar GitHub Contribution Activity"
+    width="95%"
+  />
 </p>
 
 ---
