@@ -241,13 +241,25 @@ A Python project exploring automated trading concepts and programmatic decision-
 # 🐍 GitHub Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Game"
+    />
+  </picture>
 </p>
 
 <p align="center">
   <b>Every contribution is another step forward 🚀</b>
 </p>
-
 ---
 
 # 🎯 2026 Goals
