@@ -199,7 +199,7 @@ A Python project exploring automated trading concepts and programmatic decision-
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AkarshKumar1/AkarshKumar1/output/activity-graph.svg"
+    src="./profile/activity-graph.svg"
     alt="Akarsh Kumar GitHub Contribution Activity"
     width="95%"
   />
